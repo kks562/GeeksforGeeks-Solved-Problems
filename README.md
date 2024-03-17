@@ -21,7 +21,7 @@ Contributions to this repository are welcome. If you have solved a problem from 
 ## Acknowledgments
 
 - GeeksforGeeks for providing a platform to practice and learn programming.
-- [Kavin Krishna S] - Insert your name here
+- Kavin Krishna S
 
 ## Contact
 
